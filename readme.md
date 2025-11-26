@@ -3,6 +3,17 @@
 Este projeto implementa um sistema local de detecção e reconhecimento facial usando OpenCV, Haar Cascade e LBPH para registrar um check-in de hábito saudável como beber água, alongar ou meditar.  
 A aplicação roda totalmente no desktop ou notebook, sem internet, servidor ou app externo.
 
+## Integrantes do Grupo
+
+| Nome           | RM       |
+|----------------|----------|
+| Caio Freitas   | RM553190 |
+| Caio Hideki    | RM553630 |
+| Jorge Booz     | RM552700 |
+| Mateus Tibão   | RM553267 |
+| Lana Andrade   | RM552596 |
+
+
 # Objetivo
 
 Criar uma aplicação simples que detecta e reconhece o usuário pela câmera e registra um check-in de um hábito saudável.  
